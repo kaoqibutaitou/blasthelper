@@ -1,0 +1,118 @@
+[
+	{
+		"name": "露天爆破",
+		"bk-image": "",
+		"menus":[
+			{
+				"name": "基础知识",
+				"type": "item",
+				"tips": "",
+				"menus":[
+					{
+						"name": "基础理论",
+						"type": "markdown",
+						"tips": "",
+						"path": ""
+					},
+					{
+						"name": "台阶爆破",
+						"type": "markdown",
+						"tips": "",
+						"path": ""
+					},
+					{
+						"name": "压渣爆破",
+						"type": "markdown",
+						"tips": "",
+						"path": ""
+					},
+					{
+						"name": "抛掷爆破",
+						"type": "markdown",
+						"tips": "",
+						"path": ""
+					},
+					{
+						"name": "预裂爆破",
+						"type": "markdown",
+						"tips": "",
+						"path": ""
+					},
+					{
+						"name": "相关表格",
+						"type": "item",
+						"tips": "",
+						"menus": [
+							{
+								"name": "岩石普裂系数",
+								"type": "markdown",
+								"tips": "",
+								"path": ""
+							},
+							{
+								"name": "孔深查询",
+								"type": "markdown",
+								"tips": "",
+								"path": ""
+							},
+							{
+								"name": "装药密度",
+								"type": "markdown",
+								"tips": "",
+								"path": ""
+							},
+							{
+								"name": "单位炸药消耗量",
+								"type": "markdown",
+								"tips": "",
+								"path": ""
+							},
+							{
+								"name": "国产炸药组分性能",
+								"type": "markdown",
+								"tips": "",
+								"path": ""
+							},
+							{
+								"name": "国标炸药组分性能",
+								"type": "markdown",
+								"tips": "",
+								"path": ""
+							},
+							{
+								"name": "常见岩石物体特性",
+								"type": "markdown",
+								"tips": "",
+								"path": ""
+							},
+							{
+								"name": "常见岩石力学特性",
+								"type": "markdown",
+								"tips": "",
+								"path": ""
+							},
+							{
+								"name": "乳化炸药性能指标",
+								"type": "markdown",
+								"tips": "",
+								"path": ""
+							},
+							{
+								"name": "预裂爆破参数经验值",
+								"type": "markdown",
+								"tips": "",
+								"path": ""
+							},
+							{
+								"name": "古斯塔夫松的预裂爆破参数",
+								"type": "markdown",
+								"tips": "",
+								"path": ""
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
